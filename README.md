@@ -8,7 +8,7 @@ O objetivo principal é identificar de forma precoce estudantes em situação de
 
 ```text
 ├── notebooks/          # Notebooks contendo a análise exploratória e testes do Colab
-│   └── experimentos_evasao.ipynb
+│   └── 3_experimentos_modelagem.ipynb
 ├── src/                # Scripts Python do pipeline de produção
 │   ├── data_preparation.py
 │   └── model_training.py
@@ -24,7 +24,7 @@ Para assegurar a auditabilidade e a reprodutibilidade metodológica exigidas, qu
 
 ```bash
 # 1. Clonar o repositório
-git clone [https://github.com/ifsc-sj-projetos-ia/predicao-evasao-escolar.git](https://github.com/ifsc-sj-projetos-ia/predicao-evasao-escolar.git)
+git clone https://github.com/ifsc-sj-projetos-ia/predicao-evasao-escolar.git
 cd predicao-evasao-escolar
 
 # 2. Inicializar o ambiente virtual
