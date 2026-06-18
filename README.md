@@ -24,7 +24,7 @@ Para assegurar a auditabilidade e a reprodutibilidade metodológica exigidas, qu
 
 ```bash
 # 1. Clonar o repositório
-git clone [https://github.com/vitoriacorrea/predicao-evasao-escolar.git](https://github.com/vitoriacorrea/predicao-evasao-escolar.git)
+git clone [https://github.com/ifsc-sj-projetos-ia/predicao-evasao-escolar.git](https://github.com/ifsc-sj-projetos-ia/predicao-evasao-escolar.git)
 cd predicao-evasao-escolar
 
 # 2. Inicializar o ambiente virtual
