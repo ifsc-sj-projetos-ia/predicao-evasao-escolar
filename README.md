@@ -1,3 +1,5 @@
+# Link do Relatório: https://docs.google.com/document/d/1DdmJOCyur0SbI05pFw3Kvn4Bd9DSkaC6-dYgGIND8as/edit?usp=sharing
+
 # Predição de Evasão Escolar com Machine Learning
 
 Este repositório contém o ecossistema de desenvolvimento e os experimentos para o modelo preditivo de risco de evasão escolar no ensino secundário, utilizando o *Student Performance Dataset*. 
